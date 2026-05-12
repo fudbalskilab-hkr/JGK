@@ -1,0 +1,23 @@
+{
+  "short_name": "JEVRAGKlab",
+  "name": "JEVRAGKlab Training App",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#0f0f0f",
+  "background_color": "#0f0f0f",
+  "orientation": "portrait"
+}
